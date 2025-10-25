@@ -129,7 +129,7 @@ High-speed Wi-Fi (150 Mbps, multiple ISPs), air-conditioning in the bedroom, a f
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "11:00 AM" },
             { type: "Check-out", value: "9:00 AM" },
@@ -201,7 +201,7 @@ Complimentary Wi-Fi, air-conditioning, inverter backup, daily housekeeping, and 
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "11:00 AM" },
             { type: "Check-out", value: "9:00 AM" },
@@ -269,7 +269,7 @@ Complimentary Wi-Fi (150 Mbps), fully equipped kitchen (gas stove, microwave, re
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "1:00 PM" },
             { type: "Check-out", value: "11:00 AM" },
@@ -338,7 +338,7 @@ High-speed Wi-Fi (150 Mbps, multiple ISPs), air-conditioning in the bedroom, a f
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "11:00 AM" },
             { type: "Check-out", value: "9:00 AM" },
@@ -409,7 +409,7 @@ Enjoy uninterrupted high-speed Wi-Fi, AC, and a fully equipped kitchen with gas 
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "11:00 AM" },
             { type: "Check-out", value: "9:00 AM" },
@@ -479,7 +479,7 @@ Fully equipped kitchen with microwave, refrigerator, RO water, toaster, and gas 
             { amenities_icon: "pets allowed (paid)" },
             { amenities_icon: "smoking area" }
         ],
-        property_mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.123456789!2d78.382345!3d17.447398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93e5b5b5b5b5%3A0x5b5b5b5b5b5b5b5b!2sCyber%20Towers!5e0!3m2!1sen!2sin!4v1747307370246!5m2!1sen!2sin",
+        property_mapSrc: "https://maps.google.com/maps?q=17.474651989736216,78.38721819843356&z=17&output=embed",
         property_policy_details: [
             { type: "Check-in", value: "1:00 PM" },
             { type: "Check-out", value: "11:00 AM" },
@@ -500,12 +500,12 @@ export const navbarData = {
         {
             id: 1,
             icon: 'IoIosMail',
-            data: 'atlashomeskphp@gmail.com'
+            data: 'atlashomeskphb@gmail.com'
         },
         {
             id: 2,
             icon: 'IoIosCall',
-            data: '9177773290'
+            data: '+91-7032493290'
         },
     ],
     logo: [
@@ -623,13 +623,14 @@ export const iconMap: IconMapping = {
 
 export const footerData: FooterDataInterface = {
     socialLinks: [
-        { icon: 'FaFacebook', link: 'https://facebook.com' },
-        { icon: 'FaTwitter', link: 'https://twitter.com' },
-        { icon: 'FaYoutube', link: 'https://youtube.com' },
+        { icon: 'FaFacebook', link: 'https://www.facebook.com/profile.php?id=100040632723189' },
+        { icon: 'FaInstagram', link: 'https://www.instagram.com/atlashomeskphb/' },
+        { icon: 'FaTwitter', link: 'https://x.com/atlashomeskphb' },
+        { icon: 'FaYoutube', link: 'https://www.youtube.com/@atlashomestays' },
     ],
     contactInfo: [
-        { icon: 'IoIosMail', text: 'atlashomeskphp@gmail.com' },
-        { icon: 'IoIosCall', text: ['+91 9177773290'] },
+        { icon: 'IoIosMail', text: 'atlashomeskphb@gmail.com' },
+        { icon: 'IoIosCall', text: ['+91-7032493290'] },
     ],
     villaLinks: [
         { icon: 'IoIosArrowForward', text: 'Vrindavan', link: '/' },

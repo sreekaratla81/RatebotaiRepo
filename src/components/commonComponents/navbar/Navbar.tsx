@@ -105,8 +105,8 @@ const Navbar = () => {
                     <div className="flex flex-col md:flex-row gap-4 text-center md:text-left">
                         <div className="flex items-center gap-2 font-semibold md:font-medium">
                             <IoIosMail className="text-lg md:text-2xl" />
-                            <a href="mailto:atlashomeskphp@gmail.com" className="text-sm md:text-base hover:text-gray-300">
-                                atlashomeskphp@gmail.com
+                            <a href="mailto:atlashomeskphb@gmail.com" className="text-sm md:text-base hover:text-gray-300">
+                                atlashomeskphb@gmail.com
                             </a>
                         </div>
                         {/* <div className="flex items-center gap-2 font-semibold md:font-medium">
@@ -123,13 +123,13 @@ const Navbar = () => {
                     {/* Phone */}
                     <div className="flex items-center gap-2 font-semibold md:font-medium">
                         <IoIosCall className="text-lg md:text-xl" />
-                        <span className="text-sm md:text-base">+91 9177773290</span>
+                        <span className="text-sm md:text-base">+91-7032493290</span>
                     </div>
                     <span className="text-slate-400 hidden md:block">|</span>
 
                     {/* WhatsApp */}
                     <a
-                        href="https://wa.me/7618406163"
+                        href="https://wa.me/+917032493290"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-green-500 text-2xl"
@@ -140,7 +140,7 @@ const Navbar = () => {
 
                     {/* Instagram */}
                     <a
-                        href="https://www.instagram.com/"
+                        href="https://www.instagram.com/atlashomeskphb/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
