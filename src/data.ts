@@ -638,5 +638,5 @@ export const footerData: FooterDataInterface = {
         // { icon: 'IoIosArrowForward', text: 'Kp', link: '/' },
         // { icon: 'IoIosArrowForward', text: 'Kharadi', link: '/' },
     ],
-    mapSrc: 'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3211.409098299743!2d77.948392!3d27.196455000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjfCsDExJzQ3LjIiTiA3N8KwNTYnNTQuMiJF!5e1!3m2!1sen!2sin!4v1747306248986!5m2!1sen!2sin'
+    mapSrc: 'https://maps.google.com/maps?q=17.474862392083217,78.38756293444445&z=17&output=embed'
 };
