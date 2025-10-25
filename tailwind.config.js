@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        roboto: ['Roboto Slab", serif'],
+        roboto: ['Roboto Slab', 'serif'],
       },
       colors: {
         Bg_Primary: ' var(--primary-background-color)',
