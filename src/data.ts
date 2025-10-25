@@ -76,7 +76,7 @@ import air302img10 from './assets/302/img_10.jpg';
 export const propertyData = [
     {
         id: 201,
-        property_name: "Atlas Homes Room 101",
+        property_name: "Atlas Homes Room 201",
         property_description: `Imagine the convenience of being just 2 km from Hyderabad’s Cyber Towers while staying in a cozy 1BHK apartment designed for comfort. Atlas Homes Room 101, a 450 sq. ft. first-floor unit, blends affordability with modern amenities, making it ideal for professionals and families.
 
 Indoor Spaces:
