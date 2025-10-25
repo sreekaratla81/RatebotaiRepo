@@ -1,0 +1,24 @@
+.after-effect{
+    position: relative;
+    width: max-content;
+}
+
+.after-effect::after{
+    content: '';
+    position: absolute;
+    background-color: #6c9538;
+    height: 2px;
+    bottom: -10px;
+    left: 0;
+    width: 0%;
+    transition: all 0.2s ease;
+}
+
+.after-effect:hover::after{
+   width: 100%;
+}
+
+/* .navbar-container{
+    background-image: url('../../assets/grid4.jpg');
+    opacity: 0.7;
+} */

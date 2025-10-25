@@ -1,0 +1,28 @@
+.custom-swiper .swiper-scrollbar {
+    background: rgba(255, 255, 255, 0.3);
+    /* Track color */
+    height: 4px;
+    /* Thickness */
+    border-radius: 4px;
+    /* Rounded edges */
+}
+
+.custom-swiper .swiper-scrollbar-drag {
+    background: #ffffff;
+    /* Draggable bar color */
+    /* border-radius: 4px; */
+}
+
+
+/* Hide arrows by default */
+.custom-swiper .swiper-button-next,
+.custom-swiper .swiper-button-prev {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Show arrows on hover of the Swiper */
+.custom-swiper:hover .swiper-button-next,
+.custom-swiper:hover .swiper-button-prev {
+    opacity: 1;
+}

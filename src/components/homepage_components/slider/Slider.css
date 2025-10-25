@@ -1,0 +1,23 @@
+/* Custom Swiper Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #ffffff !important;  /* White color */
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    padding: 10px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 20px !important; /* Increase arrow size */
+}
+
+.swiper-button-next {
+    right: 10px !important;
+}
+
+.swiper-button-prev {
+    left: 10px !important;
+}
