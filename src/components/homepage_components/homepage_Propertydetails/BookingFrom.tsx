@@ -60,7 +60,7 @@ const BookingForm = ({ propertyData }: { propertyData: Property }) => {
     }
     setIsLoading(true);
     const templateParams = {
-      to_email: 'atlashomeskphp@gmail.com',
+      to_email: 'atlashomeskphb@gmail.com',
       to_name: 'Property Owner',
       from_name: name,
       contact_number: contactNumber,
