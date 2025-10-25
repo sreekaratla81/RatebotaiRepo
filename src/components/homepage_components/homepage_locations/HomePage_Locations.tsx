@@ -17,14 +17,23 @@ const HomePage_Locations = () => {
     <section className="pb-12 pt-10 md:pt-20 px-6 md:px-20 lg:px-24 bg-white">
       <div className="container mx-auto">
         <div className="pb-10">
-          <Heading title={"Destinations"} />
+          <Heading title={"Our Homes"} />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-14">
           {propertyData?.map((property) => (
             <div
               key={property.id}
-              className="relative bg-white rounded-2xl cursor-pointer overflow-hidden"
-              // onClick={() => handleNavigate(property)} // parent card click
+              className="relative bg-white rounded-2xl cursor-pointer overflow-hidden focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black/60"
+              onClick={() => handleNavigate(property)}
+              role="link"
+              tabIndex={0}
+              aria-label={`Open ${property.property_name}`}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  handleNavigate(property);
+                }
+              }}
             >
               {/* Image Slider */}
               <div className="relative w-full h-52 md:h-52">
@@ -46,18 +55,6 @@ const HomePage_Locations = () => {
                   ))}
                 </Swiper>
 
-                {/* View Page Button */}
-                <div className="absolute z-10 top-4 left-4">
-                  <button
-                    onClick={(e) => {
-                      e.stopPropagation(); // prevent triggering parent onClick
-                      handleNavigate(property);
-                    }}
-                    className="bg-blue-600 text-white px-3 py-1 rounded-full text-sm font-medium shadow hover:bg-blue-700 transition"
-                  >
-                    View Page
-                  </button>
-                </div>
               </div>
 
               {/* Property Info */}

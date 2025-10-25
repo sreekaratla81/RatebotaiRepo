@@ -50,16 +50,16 @@ const Slider = () => {
                 </div>
 
                 {/* Overlay Content */}
-                <div className="z-20 absolute top-14 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center md:justify-start px-6 md:px-20 pointer-events-none ">
+                <div className="z-20 absolute top-14 left-0 w-full h-full hero-overlay bg-gradient-to-t from-black/60 via-black/30 to-transparent flex items-center justify-center md:justify-start px-6 md:px-20 pointer-events-none ">
                     <div className="h-fit flex flex-col items-center md:items-start gap-3 md:gap-5 tracking-wide capitalize text-center md:text-left ">
                         {/* Heading */}
                         <p className="text-2xl md:text-5xl font-semibold text-white drop-shadow-lg">
-                            Prestige Resorts & Hotels
+                            Atlas Homestays
                         </p>
 
                         {/* Subheading (Hidden on very small screens) */}
                         <p className="text-base md:text-xl font-normal text-[#fff] hidden sm:block drop-shadow-md">
-                            Find Your Favourite Room...
+                            Luxury homestays made affordable
                         </p>
 
 
