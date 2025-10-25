@@ -90,10 +90,7 @@ const Footer = () => {
 
             {/* Copyright */}
             <div className='text-base text-slate-300 text-center mt-10'>
-                © 2025 The Atlas Homes All rights reserved | Designed By {" "}
-                <a className='text-base font-semibold text-slate-300' href="https://ratebotai.com" target="_blank" rel="noopener noreferrer" >
-                    RateBotAi
-                </a>
+                © 2025 The Atlas Homes All rights reserved
             </div>
 
         </div>
